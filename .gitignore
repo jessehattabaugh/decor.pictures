@@ -2,3 +2,6 @@
 node_modules
 public/bundles
 public/static.json
+public/styles.css
+sam.json
+sam.yaml
