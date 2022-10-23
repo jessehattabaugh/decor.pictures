@@ -2,8 +2,8 @@
 
 find and share holiday decor pictures
 
-## Getting Started
+## start dev server
 
 ```bash
-npm install
+npm install && npm start
 ```
