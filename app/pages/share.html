@@ -1,9 +1,9 @@
 <dp-header></dp-header>
-
-<h2>📸 Share a Picture</h2>
-
-<form>
-	<input type="file" accept ="image/*" />
-</form>
-
+<main>
+	<h2>📸 Share a Picture</h2>
+	<form method="post" enctype="multipart/form-data" action="/share">
+		<input type="file" accept ="image/*"  multiple />
+		<input type="submit" />
+	</form>
+</main>
 <dp-footer></dp-footer>
