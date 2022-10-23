@@ -10,7 +10,8 @@
 		"@architect/sandbox": "latest",
 		"@enhance/arc-plugin-enhance": "latest",
 		"eslint": "latest",
-		"eslint-config-prettier": "latest"
+		"eslint-config-prettier": "latest",
+		"uuid": "^9.0.0"
 	},
 	"homepage": "https://github.com/jessehattabaugh/decor.pictures#readme",
 	"license": "UNLICENSED",
