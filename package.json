@@ -3,7 +3,15 @@
 	"bugs": {
 		"url": "https://github.com/jessehattabaugh/decor.pictures/issues"
 	},
+	"dependencies": {
+		"@enhance/arc-plugin-enhance": "latest"
+	},
 	"description": "find and share holiday decor pictures",
+	"devDependencies": {
+		"@architect/sandbox": "latest",
+		"eslint": "latest",
+		"eslint-config-prettier": "^8.5.0"
+	},
 	"homepage": "https://github.com/jessehattabaugh/decor.pictures#readme",
 	"license": "UNLICENSED",
 	"name": "decor.pictures",
@@ -13,7 +21,7 @@
 		"url": "git+https://github.com/jessehattabaugh/decor.pictures.git"
 	},
 	"scripts": {
-		"test": "npx cowsay nothing to test"
+		"start": "sandbox"
 	},
 	"type": "module",
 	"version": "0.0.0"
