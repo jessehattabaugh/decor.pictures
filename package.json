@@ -20,7 +20,8 @@
 		"url": "git+https://github.com/jessehattabaugh/decor.pictures.git"
 	},
 	"scripts": {
-		"start": "sandbox"
+		"start": "arc sandbox",
+		"deploy": "arc deploy"
 	},
 	"type": "module",
 	"version": "0.0.0"
