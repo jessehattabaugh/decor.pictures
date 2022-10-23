@@ -1,16 +1,16 @@
 {
 	"author": "Jesse Hattabaugh<jessehattabaugh@protonmail.com>",
 	"bugs": {
-		"url": "https://github.com/jessehattabaugh/{{NAME}}/issues"
+		"url": "https://github.com/jessehattabaugh/decor.pictures/issues"
 	},
-	"description": "{{DESCRIPTION}}",
-	"homepage": "https://github.com/jessehattabaugh/{{NAME}}#readme",
+	"description": "find and share holiday decor pictures",
+	"homepage": "https://github.com/jessehattabaugh/decor.pictures#readme",
 	"license": "UNLICENSED",
-	"name": "{{NAME}}",
+	"name": "decor.pictures",
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jessehattabaugh/{{NAME}}.git"
+		"url": "git+https://github.com/jessehattabaugh/decor.pictures.git"
 	},
 	"scripts": {
 		"test": "npx cowsay nothing to test"

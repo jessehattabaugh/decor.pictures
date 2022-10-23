@@ -1,6 +1,6 @@
-# {{NAME}}
+# decor.pictures
 
-{{DESCRIPTION}}
+find and share holiday decor pictures
 
 ## Getting Started
 
