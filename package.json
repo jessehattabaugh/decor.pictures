@@ -6,12 +6,11 @@
 	"description": "find and share holiday decor pictures",
 	"devDependencies": {
 		"@architect/architect": "latest",
-		"@architect/plugin-storage-public": "latest",
 		"@architect/sandbox": "latest",
 		"@enhance/arc-plugin-enhance": "latest",
+		"cloudinary-core": "^2.13.0",
 		"eslint": "latest",
-		"eslint-config-prettier": "latest",
-		"uuid": "^9.0.0"
+		"eslint-config-prettier": "latest"
 	},
 	"homepage": "https://github.com/jessehattabaugh/decor.pictures#readme",
 	"license": "UNLICENSED",
